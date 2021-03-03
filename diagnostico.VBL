@@ -1,0 +1,172 @@
+5
+
+T M D
+Principal|
+principal|
+0
+2
+I
+/Media/image/1.Principal.jpg
+I  32  S  17
+ 0
+C
+0  I  606  S  104
+ 0
+0
+0   
+2
+N  S
+Presione para continuar|
+255  255  225   0  0  0   200  5000
+E  557  448  666  562
+F  N  N  
+N  S
+Ayuda|
+255  255  225   0  0  0   200  5000
+E  696  445  808  566
+M  3  255  255  225   P  0  P  0
+
+T M D
+Menu-Equipo|
+Menu-Equipo|
+0
+2
+I
+/Media/image/2.Elegir.jpg
+I  44  S  9
+ 0
+C
+0  I  516  S  113
+ 0
+1
+2  2  3  
+0  O  S  F  N
+Z  C
+0   
+3
+N  S
+Seleccione si tiene una PC|
+255  255  225   0  0  0   200  5000
+E  472  237  669  441
+P  2
+N  S
+Seleccione si tiene una Laptop|
+255  255  225   0  0  0   200  5000
+E  721  233  916  442
+P  3
+N  S
+Ayuda|
+255  255  225   0  0  0   200  5000
+E  997  494  1082  586
+M  5  255  255  225   P  0  P  0
+
+T M D
+Menu-PC|
+Menu-PC|
+0
+2
+I
+/Media/image/3.pc.jpg
+I  44  S  8
+ 0
+C
+0  I  546  S  69
+ 0
+1
+10  6  7  8  9  10  11  12  13  14  15  
+0  O  M  N  N
+Z  C
+1   4  
+12
+N  S
+Diagnosticar Disco Duro|
+255  255  225   0  0  0   200  5000
+E  47  433  323  720
+P  6
+N  S
+Diagnosticar Tarjeta Grafica|
+255  255  225   0  0  0   200  5000
+E  369  114  555  300
+P  7
+N  S
+Diagnosticar Memoria Ram|
+255  255  225   0  0  0   200  5000
+E  329  319  527  511
+P  8
+N  S
+Diagnosticar Ventilacion y fuente.|
+255  255  225   0  0  0   200  5000
+E  493  520  657  671
+P  9
+N  S
+Diagnosticar Tarjeta de sonido.|
+255  255  225   0  0  0   200  5000
+E  642  143  805  307
+P  10
+N  S
+Diagnosticar Tarjeta de red.|
+255  255  225   0  0  0   200  5000
+E  646  325  812  490
+P  11
+N  S
+Diagnosticar Tarjeta Madre.|
+255  255  225   0  0  0   200  5000
+E  691  499  876  677
+P  12
+N  S
+Diagnosticar Cpu.|
+255  255  225   0  0  0   200  5000
+E  896  236  1081  423
+P  13
+N  S
+Diagnosticar Perifericos|
+255  255  225   0  0  0   200  5000
+E  1026  418  1149  546
+P  14
+N  S
+Ayuda|
+255  255  225   0  0  0   200  5000
+E  1069  561  1125  619
+M  6  255  255  225   P  0  P  0
+N  S
+Diagnosticar Disco duro|
+255  255  225   0  0  0   200  5000
+E  68  69  327  332
+P  6
+N  S
+Presione aqui para continuar|
+255  255  225   0  0  0   200  5000
+E  47  433  323  720
+F  N  N  
+
+T M D
+Menu-Lap|
+Menu-Lap|
+0
+2
+I
+/Media/image/4.laptop.jpg
+I  42  S  6
+ 0
+C
+0  I  560  S  72
+ 0
+0
+1   5  
+0
+
+T M D
+Disco Duro|
+Disco Duro|
+0
+2
+I
+/Media/image/fondo.jpg
+I  46  S  6
+ 0
+C
+0  I  600  S  72
+ 0
+0
+0   
+0
